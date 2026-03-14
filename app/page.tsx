@@ -1,10 +1,8 @@
-import React from "react";
-
 const Home = () => {
   return (
     <div>
       <h1 className="text-3xl text-violet-700 font-black">
-        Welcome to dev-pulse 🤞
+        Welcome to dev-pulse
       </h1>
     </div>
   );
